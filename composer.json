@@ -1,0 +1,17 @@
+{
+    "name": "block_bounty/minecraft_app",
+    "description": "A minecraft 'mission control' app for minecraft vanilla servers",
+    "type": "false",
+    "autoload": {
+        "psr-4": {
+            "BlockBounty\\MinecraftApp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Murilo Elias",
+            "email": "murilo7456@gmail.com"
+        }
+    ],
+    "require": {}
+}
